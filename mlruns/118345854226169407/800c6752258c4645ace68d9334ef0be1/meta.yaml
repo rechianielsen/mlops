@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nielsenrechia/Documents/Projects/mlops/mlruns/118345854226169407/800c6752258c4645ace68d9334ef0be1/artifacts
+end_time: 1741400389928
+entry_point_name: ''
+experiment_id: '118345854226169407'
+lifecycle_stage: active
+run_id: 800c6752258c4645ace68d9334ef0be1
+run_name: illustrious-lark-64
+run_uuid: 800c6752258c4645ace68d9334ef0be1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741400378513
+status: 3
+tags: []
+user_id: nielsenrechia
